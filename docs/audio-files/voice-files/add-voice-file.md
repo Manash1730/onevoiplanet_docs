@@ -48,6 +48,10 @@ sidebar_position: 1
  ![](../../img/general-settings/voice-files/Рисунок71.png)
 
 10.	Натисніть **Зберегти**.
+
+
  
+ jjh
+
  ![](../../img/general-settings/voice-files/Рисунок72.png)
  
